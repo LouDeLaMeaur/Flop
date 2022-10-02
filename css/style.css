@@ -1,0 +1,12 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+body, html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkturquoise;
+    height: 97%;
+}
